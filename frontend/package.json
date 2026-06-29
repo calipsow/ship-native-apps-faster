@@ -97,7 +97,7 @@
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.28.3",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.28.3",
     "@babel/preset-flow": "^7.0.0",
     "@babel/runtime": "^7.20.0",
